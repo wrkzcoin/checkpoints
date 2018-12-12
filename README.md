@@ -9,5 +9,5 @@
 
 ![Load Wrkz check points](https://raw.githubusercontent.com/wrkzdev/wrkzcoin-checkpoints/master/load_checkpoint.png)
 
-#### We also have live checkpoints data which is updated every 10mn
+#### We also have live checkpoints data which is updated in realtime.
 * Download `wrkzcoin_checkpoints.csv` from WrkzCoin Explorer: `wget https://myexplorer.wrkz.work/checkpoints -O wrkzcoin_checkpoints.csv`
